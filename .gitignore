@@ -1,7 +1,12 @@
-build
-composer.lock
-docs
-vendor
-coverage
-.idea
-.phpunit.result.cache
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
